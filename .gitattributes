@@ -1,0 +1,5 @@
+# All files: auto-detection of format, end-of-line in unix style
+* text=auto eol=lf
+
+# Apache configuration files
+*.conf linguist-language=ApacheConf
